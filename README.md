@@ -1,7 +1,7 @@
 # Move-WSL2NewDrive
 Simple menu driven system to move a WSL2 backing VHDX file to a new directory.
 
-Tested on Windows 11. Should work on Windows 10.
+Tested on Windows 11 with PowerShell 7.2.2, using Windows Terminal. It should work on Windows 10 and Windows PowerShell 5.1, but it is considered untested until someone tells me it works.
 
 The script is an automated version of work originally done by sonook.
 
