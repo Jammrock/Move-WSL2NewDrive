@@ -8,7 +8,12 @@ The script is an automated version of work originally done by sonook.
 https://github.com/MicrosoftDocs/WSL/issues/412#issuecomment-828924500
 
 
-# Use at your own risk
+## WARNING
+
+This is tested using only a single VHDX mounted to the distro, and with only a single VHDX in distro's base path (where Windows puts the initial virtual hard drive file (VHDX)). Please use extreme caution if you are using a custom setup with multiple VHDX files mounted to your distro.
+
+
+# Legal Stuff
 
 The usual OSS stuff applies. Use at your own risk. No warranty or guarantees. I'm not responsible if something breaks or data is lost.
 
